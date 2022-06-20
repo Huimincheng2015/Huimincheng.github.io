@@ -15,6 +15,6 @@ My name is Cheng Meng. I am an Assistant professor in [Institue of Statistics an
 
 Content information
 ======
-* Address: 710 Chondde Xi Building, Haidian, Beijing, China
+* Address: 310 Herty Drive, Department of Statistics, Athens, GA 30602
 
-* Email: chengmeng at ruc dot edu dot cn
+* Email: huimincheng@uga.edu
