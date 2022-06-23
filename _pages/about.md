@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Huimin Cheng. I am a Ph.D. student in the department of statistics at University of georgia, advised by Professor Wenxuan Zhong and Professor Ping Ma. My current research focused on: Network analysis; Causal Inference; Bioinformatics; Smoothig spline.
+My name is Huimin Cheng. I am a Ph.D. student in the department of statistics at University of georgia, advised by Professor Wenxuan Zhong and Professor Ping Ma. My current research focused on: <Br/>Network analysis; Causal Inference; Bioinformatics; Smoothig spline.
 
 
 
 
-Content information
+Contact information
 ======
 * Address: 310 Herty Drive, Department of Statistics, Athens, GA 30602
 
