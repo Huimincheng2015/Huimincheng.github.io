@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
--- Book 
+-**Book** 
 * [1] Wang, H. S. and Cheng, H. M. (2020). Business Data Analytics and its Applications with R.
 Renmin University of China Press. 
 
-* Refereed Journal Articles
+-**Refereed Journal Articles**
 * [2] Yu, J., Cheng, H. M., Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021).
 CONGO2: Colored-node graph square model for anomaly detection and localization in smart
 grids. IEEE Internet of Things, in press.
@@ -63,7 +63,7 @@ using density-based clustering algorithm and manifold learning.
 Physica A: Statistical Mechanics and its Applications, 464, 221-230.
 Curriculum Vita, Huimin Cheng Page 3
 
--- Under Review or In Preparation
+-**Under Review or In Preparation**
 * [19] Cheng, H. M., Ma, T., and Zhong, W. X. (2022). Med-Reader: A query-based multisource
 learner using complex network. Submitted to Nature Protocols.
 * [20] Cheng, H. M., Yu, J., Ma, P., and Zhong, W. X. (2022). Network ANOVA and riemannian
@@ -91,7 +91,7 @@ Y (2021). Social Mixing and Network Characteristics of COVID-19 Patients Before 
 After Widespread Interventions: A Population-based Study. Submitted to Nature Human
 Behaviour. 
 
--- Creative Contributions Other Than Formal Publications
+-**Creative Contributions Other Than Formal Publications**
 * [1] BKF: A new tool to help expedite literature review by knowledge fusion. https://bdal.
 shinyapps.io/BKF-system/
 
