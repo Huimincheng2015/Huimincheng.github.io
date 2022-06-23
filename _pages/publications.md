@@ -9,11 +9,12 @@ author_profile: true
 * [1] Wang, H. S. and Cheng, H. M. (2020). Business Data Analytics and its Applications with R. <br />Renmin University of China Press. 
 
 **Refereed Journal Articles**
-* [2] Yu, J., Cheng, H. M., Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021). <br />
+* [2] Zhang, Z. Y., Yan, C., Cheng, H. M., and Liu, X., (2022). Joint non-negative matrix
+factorization for community structures detection in signed networks. Journal of Complex
+Networks.
+* [3] Yu, J., Cheng, H. M., Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021). <br />
 CONGO2: Colored-node graph square model for anomaly detection and localization in smart
 grids. IEEE Internet of Things, in press.
-* [3] Yan, C., Cheng, H. M.*, liu, X., and Zhang, Z. Y. (2021). <br />Joint nonnegative matrix factorization 
-for community structures detection in signed networks. Journal of Complex Networks,accepted. (* Joint-first Author)
 * [4] Cheng, H. M., Yu, J., Wang, Z., Ma, P., Guo, C. L., Wang, B., Zhong, W. X., and Xu,
 B. Q. (2021). <br />Details of single-molecule force spectroscopy data decoded by network-based
 automatic clustering algorithm, Journal of Physical Chemistry Part B, 125(34), 9660-9667.
