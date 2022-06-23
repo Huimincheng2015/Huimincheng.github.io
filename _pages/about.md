@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 My name is Huimin Cheng. I am a Ph.D. student in the department of statistics at University of georgia, advised by Professor Wenxuan Zhong and Professor Ping Ma. My current research focused on:  
-* Network analysis; Causal Inference; Bioinformatics; Smoothig spline.
+* Network analysis  
+* Causal Inference  
+* Bioinformatics  
+* Smoothig spline
 
 Here is my [[CV]](https://huimincheng2015.github.io/files/CV_Huimin.pdf)
 
