@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
--**Presentations**
+**Presentations**
 * Poster, Georgia Statistics Day. 2021 <br />
 Decoding the single-molecule force spectroscopy data by a network-based automatic clustering algorithm.
 * Poster, Georgia Statistics Day. 2019 <br />
