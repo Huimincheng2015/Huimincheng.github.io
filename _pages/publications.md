@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Book** 
-* [1] Wang, H. S. and Cheng, H. M. (2020). Business Data Analytics and its Applications with R. <br />Renmin University of China Press. 
+* [1] Wang, H. S. and **Cheng, H. M.** (2020). Business Data Analytics and its Applications with R. <br />Renmin University of China Press. 
 
 **Refereed Journal Articles**
 * [2] Zhang, Z. Y., Yan, C., Cheng, H. M., and Liu, X., (2022). Joint non-negative matrix
