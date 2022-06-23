@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Book
+* Book
 [1] Wang, H. S. and Cheng, H. M. (2020). Business Data Analytics and its Applications with R.
 Renmin University of China Press. 
 
-**Refereed Journal Articles
+* Refereed Journal Articles
 [2] Yu, J., Cheng, H. M., Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021).
-CONGO2
-: Colored-node graph square model for anomaly detection and localization in smart
+CONGO2: Colored-node graph square model for anomaly detection and localization in smart
 grids. IEEE Internet of Things, in press.
-[3] Yan, C., Cheng, H. M.*, liu, X., and Zhang, Z. Y. (2021). Joint nonnegative matrix factorization for community structures detection in signed networks. Journal of Complex Networks,accepted. (* Joint-first Author)
+[3] Yan, C., Cheng, H. M.*, liu, X., and Zhang, Z. Y. (2021). Joint nonnegative matrix factorization 
+for community structures detection in signed networks. Journal of Complex Networks,accepted. (* Joint-first Author)
 [4] Cheng, H. M., Yu, J., Wang, Z., Ma, P., Guo, C. L., Wang, B., Zhong, W. X., and Xu,
 B. Q. (2021). Details of single-molecule force spectroscopy data decoded by network-based
 automatic clustering algorithm, Journal of Physical Chemistry Part B, 125(34), 9660-9667.
@@ -50,7 +50,7 @@ nationwide institutional-level database with 94,277 Chinese patients. Frontiers 
 [13] Liu, X, Cheng, H. M., and Zhang, Z. Y. (2019). Evaluation of community detection methods.
 IEEE Transactions on Knowledge and Data Engineering, 32, 1736 - 1746.
 [14] Francis, M., Cheng, H. M., Ma, P., and Grider, A. (2019). Genomic characterization of the
-zinc transcriptional regulatory element reveals potential functional roles of ZNF658. Biolog￾ical Trace Element Research, 192(2), 83-90.
+zinc transcriptional regulatory element reveals potential functional roles of ZNF658. Biological Trace Element Research, 192(2), 83-90.
 [15] Zhang, Z. Y., Gai, Y., Wang, Y. F., Cheng, H. M., and Liu, X. (2018). On equivalence
 of likelihood maximization of stochastic block model and constrained nonnegative matrix
 factorization. Physica A: Statistical Mechanics and its Applications, 503, 687-697.
@@ -58,11 +58,12 @@ factorization. Physica A: Statistical Mechanics and its Applications, 503, 687-6
 detection in complex networks using link prediction. Modern Physics Letters B, 32, 1850004.
 [17] Cheng, H. M., Ning, Y. Z., Ma, X., Liu, X., and Zhang, Z. Y. (2017). Effectiveness of rapid
 rail transit system in Beijing. PLOS One, 12, e0180075.
-[18] You, T., Cheng, H. M., Ning, Y. Z., Shia, B. C., and Zhang, Z. Y. (2016). Community de￾tection in complex networks using density-based clustering algorithm and manifold learning.
+[18] You, T., Cheng, H. M., Ning, Y. Z., Shia, B. C., and Zhang, Z. Y. (2016). Community detection in complex networks 
+using density-based clustering algorithm and manifold learning.
 Physica A: Statistical Mechanics and its Applications, 464, 221-230.
 Curriculum Vita, Huimin Cheng Page 3
 
-**Under Review or In Preparation
+* Under Review or In Preparation
 [19] Cheng, H. M., Ma, T., and Zhong, W. X. (2022). Med-Reader: A query-based multisource
 learner using complex network. Submitted to Nature Protocols.
 [20] Cheng, H. M., Yu, J., Ma, P., and Zhong, W. X. (2022). Network ANOVA and riemannian
@@ -73,7 +74,8 @@ network: A highly efficient learner for random graph. Submitted to ICML.
 analysis of variance. Submitted to Journal of American Statistical Association.
 [23] Cheng, H. M., Ma, P., and Zhong, W. X. (2022). Variable screening for unlabeled networks
 and Euclidean predictors in Riemannian geometry. In preparation.
-[24] Cai, J. Z., Cheng, H. M., Zhong, W. X., Shen, Y., and Ma, P. (2021). Pseudo-Time reconstruction to infer transmission direction for COVID-19. In preparation.
+[24] Cai, J. Z., Cheng, H. M., Zhong, W. X., Shen, Y., and Ma, P. (2021). Pseudo-Time reconstruction to 
+infer transmission direction for COVID-19. In preparation.
 [25] Wu, S. S., Cheng, H. M., Zhong, W. X., Shen, Y., and Ma, P. (2021). Personalized infection
 risk Score Prediction based on a COVID-19 Population-based Contact Tracing Network. In
 preparation.
@@ -89,7 +91,7 @@ Y (2021). Social Mixing and Network Characteristics of COVID-19 Patients Before 
 After Widespread Interventions: A Population-based Study. Submitted to Nature Human
 Behaviour. 
 
-**Creative Contributions Other Than Formal Publications
+* Creative Contributions Other Than Formal Publications
 [1] BKF: A new tool to help expedite literature review by knowledge fusion. https://bdal.
 shinyapps.io/BKF-system/
 
