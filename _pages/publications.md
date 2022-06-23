@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -**Book** 
-* [1] Wang, H. S. and Cheng, H. M. (2020). Business Data Analytics and its Applications with R.  Renmin University of China Press. 
+* [1] Wang, H. S. and Cheng, H. M. (2020). Business Data Analytics and its Applications with R.\Renmin University of China Press. 
 
 -**Refereed Journal Articles**
 * [2] Yu, J., Cheng, H. M., Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021).
