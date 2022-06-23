@@ -1,6 +1,7 @@
 ---
-layout: archive
-title: "Awards&Honor1"
+collection: talks
+type: "Talk"
+title: "Awards&Honor"
 permalink: /awards&honor/awards&Honor1
 author_profile: true
 ---
