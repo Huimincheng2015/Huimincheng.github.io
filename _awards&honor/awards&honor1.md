@@ -1,6 +1,6 @@
 ---
-collection: talks
-type: "Talk"
+collection: awards&honor
+type: "awards&honor"
 title: "Awards&Honor"
 permalink: /awards&honor/awards&Honor1
 author_profile: true
