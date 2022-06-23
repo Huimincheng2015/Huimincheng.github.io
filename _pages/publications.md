@@ -43,10 +43,10 @@ Mechanics and its Applications, 539, 122907.
 * [11] **Cheng, H. M.**, Li, S. Y., Ning, Y. Z., Chen, X., Pan, R., and Zhang, Z. Y. (2019). <br />Analysis
 on utilization of Beijing local roads using taxi GPS data. Physica A: Statistical Mechanics
 and its Applications, 545, 123570.
-* [12] Wu, Z. Q., **Cheng, H. M.***, Shan, F., Ying, X. J., Miao, R. l., Zhang, Z. Y., Li, Z. Y., and
+* [12] Wu, Z. Q., **Cheng, H. M.** *, Shan, F., Ying, X. J., Miao, R. l., Zhang, Z. Y., Li, Z. Y., and
 Ji, J. F. (2019). <br />In-hospital mortality risk model of gastric cancer surgery: analysis of a
 nationwide institutional-level database with 94,277 Chinese patients. Frontiers in Oncology,
-9, 846. (* Joint-first Author).
+9, 846. (*Joint-first Author).
 * [13] Liu, X, **Cheng, H. M.**, and Zhang, Z. Y. (2019). <br />Evaluation of community detection methods.
 IEEE Transactions on Knowledge and Data Engineering, 32, 1736 - 1746.
 * [14] Francis, M., **Cheng, H. M.**, Ma, P., and Grider, A. (2019). <br />Genomic characterization of the
