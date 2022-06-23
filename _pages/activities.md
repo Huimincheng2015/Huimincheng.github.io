@@ -12,5 +12,5 @@ author_profile: true
 **Professional Activities**
 * Review for JournalStatistica Sinica 2018-present <br />Journal of the American Statistical Association, 2018-present
 
--**Other Services**
+**Other Services**
 * Mentoring a female student in the University of Georgia Young Dawgs Program, Fall 2020
