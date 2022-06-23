@@ -4,6 +4,9 @@ title: "Awards&Honors"
 permalink: /Awards&Honors/
 author_profile: true
 ---
+**Southeastern Conference (SEC) Emerging Scholars Award ($35,000)**  
+* University of **Georgia**. 2022
+• Summer Research Grant, University of Georgia. 2022
 
 **Best Beginning student 2021**
 * Awarded by University of Georgia.
