@@ -7,7 +7,7 @@ author_profile: true
 
 
 **Teaching Activities**
-* Teaching Assistant <br />STAT 2000 Introductory Statistics Fall, 2018 & Spring 2019
+* Teaching Assistant <br />STAT 2000 Introductory Statistics, Fall 2018 & Spring 2019
 
 **Professional Activities**
 * Review for Journal <br />Statistica Sinica, 2018-present <br />Journal of the American Statistical Association, 2018-present
