@@ -7,10 +7,10 @@ author_profile: true
 
 -**Best Beginning student 2021**
 
-Awarded by University of Georgia.
+-Awarded by University of Georgia.
 
 -**Entrepreneurial Team Lead of UGA NSF I-Corps program 2019**
-Awarded by University of Georgia.
+-Awarded by University of Georgia.
 
 -**Bargmann Travel Fund for The 2019 Joint Statistical Meetings 2019**
 Awarded by University of Georgia.
