@@ -63,7 +63,7 @@ using density-based clustering algorithm and manifold learning.
 Physica A: Statistical Mechanics and its Applications, 464, 221-230.
 Curriculum Vita, Huimin Cheng Page 3
 
-* Under Review or In Preparation
+-- Under Review or In Preparation
 * [19] Cheng, H. M., Ma, T., and Zhong, W. X. (2022). Med-Reader: A query-based multisource
 learner using complex network. Submitted to Nature Protocols.
 * [20] Cheng, H. M., Yu, J., Ma, P., and Zhong, W. X. (2022). Network ANOVA and riemannian
@@ -91,7 +91,7 @@ Y (2021). Social Mixing and Network Characteristics of COVID-19 Patients Before 
 After Widespread Interventions: A Population-based Study. Submitted to Nature Human
 Behaviour. 
 
-* Creative Contributions Other Than Formal Publications
+-- Creative Contributions Other Than Formal Publications
 * [1] BKF: A new tool to help expedite literature review by knowledge fusion. https://bdal.
 shinyapps.io/BKF-system/
 
