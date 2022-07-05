@@ -53,26 +53,26 @@ Physica A: Statistical Mechanics and its Applications, 464, 221-230.
 
 
 **Under Review or In Preparation**
-* [19] **Cheng, H. M.**, Ma, T., and Zhong, W. X. (2022). <br />Med-Reader: A query-based multisource
+* [19] **Cheng, H. M.**, Ma, T., and Zhong, W. X. (2022). Med-Reader: A query-based multisource
 learner using complex network. Submitted to Nature Protocols.
-* [20] **Cheng, H. M.**, Yu, J., Ma, P., and Zhong, W. X. (2022). <br />Network ANOVA and riemannian
+* [20] **Cheng, H. M.**, Yu, J., Ma, P., and Zhong, W. X. (2022). Network ANOVA and riemannian
 manifold for statistical physics. Submitted to Journal of American Statistical Association.
-* [21] **Cheng, H. M.**, Wu, S. S., Yu, J., Lu, H. R., Zhong, W. X. (2022). <br />Graphon convolutional
+* [21] **Cheng, H. M.**, Wu, S. S., Yu, J., Lu, H. R., Zhong, W. X. (2022). Graphon convolutional
 network: A highly efficient learner for random graph. Submitted to ICML.
-* [22] **Cheng, H. M.**, Yu, J., Zhang, M. R., Ma, P., and Zhong, W. X. (2022). <br />Toward a network
+* [22] **Cheng, H. M.**, Yu, J., Zhang, M. R., Ma, P., and Zhong, W. X. (2022). Toward a network
 analysis of variance. Submitted to Journal of American Statistical Association.
-* [23] **Cheng, H. M.**, Ma, P., and Zhong, W. X. (2022). <br />Variable screening for unlabeled networks
+* [23] **Cheng, H. M.**, Ma, P., and Zhong, W. X. (2022). Variable screening for unlabeled networks
 and Euclidean predictors in Riemannian geometry. In preparation.
-* [24] Cai, J. Z., **Cheng, H. M.**, Zhong, W. X., Shen, Y., and Ma, P. (2021). <br />Pseudo-Time reconstruction to 
+* [24] Cai, J. Z., **Cheng, H. M.**, Zhong, W. X., Shen, Y., and Ma, P. (2021). Pseudo-Time reconstruction to 
 infer transmission direction for COVID-19. In preparation.
-* [25] Wu, S. S., **Cheng, H. M.**, Zhong, W. X., Shen, Y., and Ma, P. (2021). <br />Personalized infection
+* [25] Wu, S. S., **Cheng, H. M.**, Zhong, W. X., Shen, Y., and Ma, P. (2021). Personalized infection
 risk Score Prediction based on a COVID-19 Population-based Contact Tracing Network. In
 preparation.
 * [26] Lu, H. R., **Cheng, H. M.**, Wang, Y., Wang, X. D., Xie, Y. G., Yan, H., Zhong, W. X., and
-Ma, P. (2021). <br />Smoothing Spline with Phase Transition. Submitted to Annals of Applied
+Ma, P. (2021). Smoothing Spline with Phase Transition. Submitted to Annals of Applied
 Statistics.
 * [27] Meng, C., Ke, Y., Zhang, J. Y., **Cheng, H. M.**, Cheng, Y. K., Zhong, W. X., and Ma, P.
-(2020). <br />Variable selection for high-dimensional optimal transport problems using random
+(2020). Variable selection for high-dimensional optimal transport problems using random
 permutation. Submitted to Journal of American Statistical Association.
 * [28] He, Y., Martinez, L., Ge, Y., Feng, Y., Tan, J. B., Westbrook, A., Li, C. W., Cheng, W., Ling,
 F., **Cheng, H. M.**, Wu, S. S., Zhong, W. X., Handel, A., Huang, H., Sun, J. M., and Shen,
@@ -81,7 +81,6 @@ After Widespread Interventions: A Population-based Study. Submitted to Nature Hu
 Behaviour. 
 
 **Creative Contributions Other Than Formal Publications**
-* [1] BKF: A new tool to help expedite literature review by knowledge fusion. https://bdal.
-shinyapps.io/BKF-system/
+* [1] [BKF](https://bdal.shinyapps.io/BKF-system/): A new tool to help expedite literature review by knowledge fusion. 
 
 
