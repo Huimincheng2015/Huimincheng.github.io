@@ -76,7 +76,7 @@ Statistics.
 permutation. Submitted to Journal of American Statistical Association.
 * [28] He, Y., Martinez, L., Ge, Y., Feng, Y., Tan, J. B., Westbrook, A., Li, C. W., Cheng, W., Ling,
 F., **Cheng, H. M.**, Wu, S. S., Zhong, W. X., Handel, A., Huang, H., Sun, J. M., and Shen,
-Y (2021). <br />Social Mixing and Network Characteristics of COVID-19 Patients Before and
+Y (2021). Social Mixing and Network Characteristics of COVID-19 Patients Before and
 After Widespread Interventions: A Population-based Study. Submitted to Nature Human
 Behaviour. 
 
