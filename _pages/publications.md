@@ -11,9 +11,7 @@ author_profile: true
 **Refereed Journal Articles**
 * [2] Zhang, Z. Y., Yan, C., **Cheng, H. M.**, and Liu, X., (2022). [Joint non-negative matrix
 factorization for community structures detection in signed networks](https://academic.oup.com/comnet/article-abstract/10/3/cnac016/6594544). Journal of Complex Networks.
-* [3] Yu, J., **Cheng, H. M.**, Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021). <br />
-[CONGO2: Colored-node graph square model for anomaly detection and localization in smart
-grids](https://ieeexplore.ieee.org/abstract/document/9681863). IEEE Internet of Things, in press.
+* [3] Yu, J., **Cheng, H. M.**, Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021). [CONGO2: Colored-node graph square model for anomaly detection and localization in smart grids](https://ieeexplore.ieee.org/abstract/document/9681863). IEEE Internet of Things, in press.
 * [4] **Cheng, H. M.**, Yu, J., Wang, Z., Ma, P., Guo, C. L., Wang, B., Zhong, W. X., and Xu,
 B. Q. (2021). <br />[Details of single-molecule force spectroscopy data decoded by network-based
 automatic clustering algorithm](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c03552), Journal of Physical Chemistry Part B, 125(34), 9660-9667.
