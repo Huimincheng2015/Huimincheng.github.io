@@ -9,9 +9,8 @@ author_profile: true
 * [1] Wang, H. S. and **Cheng, H. M.** (2020). Business Data Analytics and its Applications with R. <br />Renmin University of China Press. 
 
 **Refereed Journal Articles**
-* [2] Zhang, Z. Y., Yan, C., **Cheng, H. M.**, and Liu, X., (2022). Joint non-negative matrix
-factorization for community structures detection in signed networks. Journal of Complex
-Networks.
+* [2] Zhang, Z. Y., Yan, C., **Cheng, H. M.**, and Liu, X., (2022). [Joint non-negative matrix
+factorization for community structures detection in signed networks](https://academic.oup.com/comnet/article-abstract/10/3/cnac016/6594544). Journal of Complex Networks.
 * [3] Yu, J., **Cheng, H. M.**, Zhang, J. N., Zhong, W. X., Ye, J., Song, W. Z., and Ma, P. (2021). <br />
 CONGO2: Colored-node graph square model for anomaly detection and localization in smart
 grids. IEEE Internet of Things, in press.
