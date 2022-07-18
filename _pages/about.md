@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Huimin Cheng. I am a Ph.D. student in the [[department of statistics]](https://www.stat.uga.edu/) at [[University of georgia]](https://www.uga.edu/), advised by Professor [[Wenxuan Zhong]](https://zhonglab.uga.edu/) and Professor [[Ping Ma]](https://malab.uga.edu/). My current research focused on:  
+My name is Huimin Cheng. I am a Ph.D. student in the [department of statistics](https://www.stat.uga.edu/) at [University of georgia](https://www.uga.edu/), advised by Professor [Wenxuan Zhong](https://zhonglab.uga.edu/) and Professor [Ping Ma](https://malab.uga.edu/). My current research focused on:  
 * Network analysis  
 * Causal Inference  
 * Bioinformatics  
